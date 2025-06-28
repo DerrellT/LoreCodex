@@ -1,0 +1,19 @@
+{
+    "regions": [
+   {
+       "reg": "Rema", 
+       "characters": ["Jicho", "bob"],
+       "description": ["Forest", "Humid"]
+       
+
+   },
+   {
+    "reg": "Rumos", 
+    "characters": ["Qiyana"],
+    "description": ["Desert", "Dry"]
+
+}
+]
+
+}
+
