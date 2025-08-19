@@ -59,22 +59,18 @@
     }
     ,
     {
-        "name": "Qiyana",
-        "title": "Empress of Elements",
-        "traits": ["Arrogant", "Spoiled"],
-        "short story": ["Qiyana is a elegant princess and royalty. A true prodigy"]
+        "name": "Malloi",
+        "title": "Armored knight",
+        "traits": ["Fights evenly", "Arrogant"],
+        "short story": ["They look as if they were human but from another time"]
         
     }
-    ,
-    {
-        "name": "Qiyana",
-        "title": "Empress of Elements",
-        "traits": ["Arrogant", "Spoiled"],
-        "short story": ["Qiyana is a elegant princess and royalty. A true prodigy"]
-        
-    }
+    
 
 ]
+
+}
+
 
 }
 
