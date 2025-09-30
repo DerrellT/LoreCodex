@@ -1,0 +1,19 @@
+{
+    "regions": [
+   {
+       "reg": "Rema", 
+       "characters": ["Jicho", "Ilonai", "Hollow Beat", "Flesh Lanterns","Criers", "Amara"],
+       "description": ["Forest", "Humid"]
+       
+
+   },
+   {
+    "reg": "Rumos", 
+    "characters": ["Threadeaters", "Malloi", "Scorchers"],
+    "description": ["Desert", "Dry"]
+
+}
+]
+
+}
+

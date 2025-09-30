@@ -1,0 +1,78 @@
+{
+     "characters": [
+    {
+        "name": "Jicho", 
+        "title": "Veiled Eye",
+        "traits": ["Timid", "Kind"],
+        "short story": ["Jicho is a dark skinned purple eyes young woman from Rema, she is a talented summoner of mystical creatures. "]
+
+    },
+    {
+        "name": "Amara",
+        "title": "Morrigan",
+        "traits": ["Noble", "Loyal", "Strong"],
+        "short story": ["Amara is the mentor of Jicho that teaches her about what she is capable of and what she has to do to save others."]
+        
+    }
+    ,
+    {
+        "name": "Criers",
+        "title": "Minor",
+        "traits": ["Fast", "Loud"],
+        "short story": ["During the first appearences a few villages that died but got caught between worlds. Ghostly wailing figures that scratch themselves but are silent until one starts to cry from hunger then goes into a frenzy."]
+        
+    }
+    ,
+    {
+        "name": "Scorchers",
+        "title": "Minor",
+        "traits": ["Fiery", "Brutes"],
+        "short story": ["A greedy and scared family that tried to make a deal with _____ for power but was betrayed. Can vanish and reappear behind you. "]
+        
+    }
+    ,
+    {
+        "name": "Flesh Lanterns",
+        "title": "Minor",
+        "traits": ["Quiet", "Exploitive"],
+        "short story": ["A tree with humans hanging from the limbs that uses them to lure in unsuspecting prey. Humans and other creatures."]
+        
+    }
+    ,
+    {
+        "name": "Hollow Beats",
+        "title": "minor",
+        "traits": ["Brutes", "Wreckless"],
+        "short story": ["Animals during the first appearence turned into a combination of random animals such as bird, deer, wolf, bear, rabbit and snakes."]
+        
+    }
+    ,
+    {
+        "name": "Threadeaters",
+        "title": "minor",
+        "traits": ["Quiet", "Fast", "Hungry"],
+        "short story": ["Spiders during the first appearence turned into large monster spiders that seem like they're running on nothing but Jicho can see the invisible threads."]
+        
+    }
+    ,
+    {
+        "name": "Ilonai",
+        "title": "The Drowned Seer",
+        "traits": ["Smart", "Trickster"],
+        "short story": ["A creature from the first appearence that gives the listener a hillucinated heaven. Has a hill of bodies as a food stockpile."]
+        
+    }
+    ,
+    {
+        "name": "Malloi",
+        "title": "Armored knight",
+        "traits": ["Fights evenly", "Arrogant"],
+        "short story": ["They look as if they were human but from another time"]
+        
+    }
+    
+
+]
+
+}
+
