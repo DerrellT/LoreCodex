@@ -4,9 +4,9 @@ from tkinter import messagebox  # Imports the messagebox module for pop-up dialo
 
 
 # loads json file
-with open('personal projects/project2025/lore_chars.json') as f:  # Opens the characters JSON file in read mode
+with open('data/lore_chars.json') as f:  # Opens the characters JSON file in read mode
     lore = json.load(f)  # Loads the file's contents into a Python dictionary called 'lore'
-with open('personal projects/project2025/lore_regions.json') as f:  # Opens the regions JSON file
+with open('data/lore_regions.json') as f:  # Opens the regions JSON file
     area = json.load(f)  # Loads the file's contents into a dictionary called 'area'
 
 
