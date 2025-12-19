@@ -1,4 +1,4 @@
-# Lore Codex
+# LoreCodex
 
 Lore Codex is a Python project that allows users to explore a fictional world’s lore.  
 Users can search characters and regions, and the project includes basic database functionality.
