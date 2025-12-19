@@ -1,34 +1,31 @@
-# LoreCodex
+# LoreCodex — Interactive JSON Data Explorer
 
-Lore Codex is a Python project that allows users to explore a fictional world’s lore.  
-Users can search characters and regions, and the project includes basic database functionality.
+LoreCodex is a Python application that allows users to explore a fictional world’s lore by loading and querying structured JSON data. Users can search for characters and regions through an interactive interface, reinforcing core concepts in file handling, data parsing, and program structure.
 
 ## Project Structure
+
 LoreCodex/
-│
-├── src/        # Python scripts
-│   ├── lore_explorer.py
-│   └── database.py
-│
-├── data/       # JSON files
+├── src/
+│   └── lore_explorer.py
+├── data/
 │   ├── lore_chars.json
 │   └── lore_regions.json
-│
-├── README.md   # This file
+├── README.md
+
 ## Features
-- Explore characters and regions
-- Search by name or region
-- Database integration for storing and fetching data
-- Clean, organized project structure
-## Installation
+
+- Load and parse structured JSON data
+- Search characters by name or associated region
+- Display character traits and regional information
+- Maintain a clear separation between data storage and application logic
+
+## Tech Stack
+
+- Python
+- JSON
+- pandas
+- tkinter
+
+## Setup
 
 1. Clone the repository:
-
-```bash
-git clone https://github.com/DerrellTurner/LoreCodex.git
-cd LoreCodex
-```
-Dependencies
-	•	Python 3.x
-	•	pandas
-	•	tkinter
