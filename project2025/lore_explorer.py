@@ -35,13 +35,7 @@ def search_character():  # Defines a function that will run when the search butt
     if not found:  # If neither a character nor a region matched the input
         messagebox.showerror("Not Found", "Character or Region not found.")  # Shows an error pop-up
         return
-   # #if not found:
-    #    for char in lore["characters"]:
-    #            info += f"- {char['name']} ({char['title']})\n"
-    #            print(info)
-    #    for char in area["regions"]:
-    #            infoReg += f"- {char['reg']}: {', '.join(char['characters'])}\n"
-    #            print(infoReg)
+
 root = tk.Tk()  # Initializes the main window (root of your GUI)
 root.title("Lore Search")  # Sets the title of the window
 label = tk.Label(root, text="Enter character name or region:")  # Creates a label instructing the user
