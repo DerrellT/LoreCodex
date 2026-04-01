@@ -4,12 +4,19 @@ LoreCodex is a Python application that allows users to explore a fictional world
 
 ## Project Structure
 
-LoreCodex/
-├── src/
+LoreCodex
+
+├── src
+\
 │   └── lore_explorer.py
-├── data/
+
+
+├── data
+
 │   ├── lore_chars.json
+\
 │   └── lore_regions.json
+
 ├── README.md
 
 ## Features
